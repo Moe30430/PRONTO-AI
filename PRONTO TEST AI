@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PRONTO-AI | HVAC Jobs On Demand</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #ffffff;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #1f2937;
+      font-size: 36px;
+      text-align: center;
+    }
+    h2 {
+      color: #111827;
+      font-size: 28px;
+      margin-top: 40px;
+    }
+    p, li {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .highlight {
+      background: #facc15;
+      padding: 8px 16px;
+      font-weight: bold;
+      display: inline-block;
+      margin: 20px auto;
+      text-align: center;
+      font-size: 22px;
+      color: #000;
+    }
+    .cta-button {
+      display: block;
+      margin: 30px auto;
+      padding: 15px 30px;
+      background-color: #2563eb;
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      font-size: 20px;
+      text-align: center;
+      text-decoration: none;
+      max-width: 300px;
+    }
+    blockquote {
+      font-style: italic;
+      background: #f3f4f6;
+      padding: 20px;
+      border-left: 5px solid #3b82f6;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>PRONTO-AI | HVAC JOBS ON DEMAND</h1>
+    <p style="text-align:center; font-size: 20px;">Get Purchased Heating & Cooling Jobs — Ready to Install — For Just $500 Each.</p>
+    <p style="text-align:center; color: #2563eb;">No contracts. No commitment. Pay only when we deliver real homeowners ready for install.</p>
+
+    <div class="highlight">🔥 We Sell — You Install 🔧</div>
+
+    <h2>✅ Why HVAC Pros Choose PRONTO-AI</h2>
+    <ul>
+      <li><strong>$500 Flat Per Job:</strong> Only pay when we deliver a verified, install-ready customer.</li>
+      <li><strong>No Monthly Retainers:</strong> Scale on your own terms with no upfront fees.</li>
+      <li><strong>Exclusive Jobs:</strong> You’re the only contractor getting the job.</li>
+      <li><strong>Nationwide Targeting:</strong> We find customers where you operate.</li>
+      <li><strong>Daily Job Delivery:</strong> Stay busy with a constant pipeline.</li>
+      <li><strong>100% Guarantee:</strong> If we don’t deliver, you don’t pay.</li>
+    </ul>
+
+    <h2>🔧 What You Get</h2>
+    <ul>
+      <li>Pre-screened homeowners ready to replace their furnace or AC</li>
+      <li>Customers ready to install within days</li>
+      <li>Easy CRM integration and instant notifications</li>
+    </ul>
+
+    <h2>💡 How It Works</h2>
+    <ol>
+      <li><strong>Tell Us Your Area:</strong> Zip code, county, or radius.</li>
+      <li><strong>We Launch Ads:</strong> Facebook & Instagram campaigns targeting homeowners.</li>
+      <li><strong>We Deliver Real Jobs:</strong> You get homeowner contact + install details.</li>
+      <li><strong>You Install:</strong> Complete the job and keep all the profit.</li>
+    </ol>
+
+    <a href=\"#\" class=\"cta-button\">🚀 Get My First Job Now</a>
+
+    <blockquote>
+      “PRONTO-AI delivered 28 HVAC installs in our first month — all verified customers ready to move. No fluff, no chasing leads.”<br/>
+      — <strong>Jake T., HVAC Contractor, Ohio</strong>
+    </blockquote>
+  </div>
+</body>
+</html>
